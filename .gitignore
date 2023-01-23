@@ -1,4 +1,4 @@
 data.log
 *.log
-/data/def.txt
-/*
+/data/*
+!/data/aaa.txt
